@@ -1,1 +1,3 @@
 wsf
+
+today learned init add commit in my git
